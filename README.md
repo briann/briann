@@ -2,7 +2,7 @@
 
 Some folks call me `bingo`, and you can too!
 
-- ❓ I'm an engineer with over 15 years of experience building products & leading teams at places like [Slack](https://www.slack.com), [Palantir](https://www.palantir.com), [Google](https://www.google.com), and [Gemini](https://www.gemini.com). 
+- ❓ I'm an engineer with over 15 years of building products & leading teams at places like [Slack](https://www.slack.com), [Palantir](https://www.palantir.com), [Google](https://www.google.com), and [Gemini](https://www.gemini.com). 
 - 🛠 I'm currently on a mini-sabbatical / career break where I'll be hacking on ideas...
 - ✍ ...hopefully I'll get off my butt and start writing about things I hack on at [bngo.dev](https://bngo.dev).
 - 🏢 You can see more of my vocational background on [LinkedIn](https://linkedin.com/in/brianngo).
