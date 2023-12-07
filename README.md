@@ -1,6 +1,6 @@
 ### Hi! I'm Brian 👋
 
-Some folks call me `bingo`, and you can too!
+Some folks call me `bingo` (you can too!)
 
 - ❓ I'm an engineer with over 15 years of building products & leading teams at places like [Slack](https://www.slack.com), [Palantir](https://www.palantir.com), [Google](https://www.google.com), and [Gemini](https://www.gemini.com). 
 - 🛠 I'm currently on a mini-sabbatical / career break where I'll be hacking on ideas...
